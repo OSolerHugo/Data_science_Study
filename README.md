@@ -1,2 +1,3 @@
-# Data_science_Study
-This repository serves as a platform where I will showcase the examples and projects that I am actively working on as a data scientist. It will serve as a comprehensive portfolio that demonstrates my skills and expertise in the field of data science.
+#Introduction
+
+Welcome to my portfolio repository! I am a PhD in Nuclear Physics who has recently embarked on a journey to learn data science. This repository showcases my progress and the various projects and cases I have been working on.
